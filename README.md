@@ -37,7 +37,7 @@ This project is divided into three parts:
 
 ## Key Insights
 - Overall churn rate is 20.4%
-- Germany has the highest churn rate at ~32%
+- Germany has the highest churn rate at 32%
 - Customers aged 46-55 are most likely to churn
 - Inactive members churn at double the rate of active members
 - Customers with 3 or 4 products have very high churn rates
